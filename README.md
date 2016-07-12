@@ -1,2 +1,3 @@
 # hello-world
-Welcome page to my GitHub.
+Welcome to my GitHub page.
+...under construction...
